@@ -1,0 +1,42 @@
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Business.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DAL.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DTO.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Utility.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DAL.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DTO.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Utility.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Business.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DAL.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DTO.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Utility.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DAL.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DTO.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\Utility.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\Business\obj\Debug\net8.0\ref\Business.dll

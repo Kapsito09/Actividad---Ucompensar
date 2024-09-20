@@ -1,0 +1,30 @@
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ca_pb\OneDrive\Documentos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ca_pb\Documents\Universidad Compensar Trabajos\Universidad Compensar Trabajos\CursoBackEnd\BackEnd\DAL\obj\Debug\net8.0\ref\DAL.dll
